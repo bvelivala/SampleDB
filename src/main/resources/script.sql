@@ -1,1 +1,1 @@
-insert into autoclaim values(20174561, 'Pending', 'DIRECT', '01/01/2017', '03/01/2017', 'accident', '2010', 'Ford', 'Feista', 'kdfjhsdki748564', 'John', '9824571556', 'john.smith@gmail.com', '123456', 'standard');
+insert into autoclaim values(20174571, 'Pending', 'DIRECT', '01/01/2017', '03/01/2017', 'accident', '2010', 'Ford', 'Feista', 'test748564', 'Shaurya', '9824571577', 'shaurya.v@gmail.com', '123456', 'standard');
